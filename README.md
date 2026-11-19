@@ -14,30 +14,30 @@
 
 gsm 
 - Documents
-  --PokupkaTopliva  -  учет закупки топлива на склад
+  -- PokupkaTopliva  -  учет закупки топлива на склад
     ---ObjectModule.bsl - 
     ---Description.txt
 
-  --RashodTopliva -  Операция учета расхода топлива по нормам расхода
+  -- RashodTopliva -  Операция учета расхода топлива по нормам расхода
     ---ObjectModule.bsl 
     ---Module.bsl
     ---Description.txt
     
-  --VydachaBenzina - Операция выдача топлива на автомобиль
+  -- VydachaBenzina - Операция выдача топлива на автомобиль
     ---ObjectModule.bsl 
     ---Description.txt
--Reports
- --DinamikaCen - Отчет по динамике изменения цен по топливу в разрезе поставщиков
+- Reports
+ -- DinamikaCen - Отчет по динамике изменения цен по топливу в разрезе поставщиков
   ---Template.xml
   ---Description.txt
 
 FileStorage 
 - DataProcessors
-  --Forms
-    ---NovyiFile - форма добавления элементов
+  -- Forms
+    --- NovyiFile - форма добавления элементов
       ----Module.bsl
       ----Description.txt
-    ---RabocheeMesto - логика рабочего места (переключение разделов, контроль модификации, управление состоянием)
+    --- RabocheeMesto - логика рабочего места (переключение разделов, контроль модификации, управление состоянием)
       ----Module.bsl
       ----Description.txt
 ## Описание проектов 
