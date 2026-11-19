@@ -13,7 +13,7 @@
 ## Состав проектов
 
 gsm 
--Documents
+- Documents
   --PokupkaTopliva  -  учет закупки топлива на склад
     ---ObjectModule.bsl - 
     ---Description.txt
